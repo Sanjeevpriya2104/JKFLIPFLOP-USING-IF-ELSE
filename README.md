@@ -1,4 +1,5 @@
-sanjeevpriya k 212224040289
+NAME: sanjeevpriya k
+ reg no :212224040289
 # JKFLIPFLOP-USING-IF-ELSE
 
 **AIM:** 
